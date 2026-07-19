@@ -54,7 +54,7 @@ export default function App() {
           <footer className="footer">
             <p className="footer-big">ЧЕСТИТ РОЖДЕН ДЕН, ВАСКО! 🤘🔥</p>
             <p className="footer-small">
-              Направено с 🍺, 💀 и много обич от твоя брат • 18.07.2026 • Rock till death
+              Направено с 🍺, 💀 и много обич от твоя брат • 17.07.2026 • Rock till death
             </p>
           </footer>
           <AudioPlayer playing={playing} onToggle={togglePlay} />
