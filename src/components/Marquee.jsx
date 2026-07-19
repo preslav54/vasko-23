@@ -1,5 +1,5 @@
 const LINE =
-  'SEX • BEER • ROCK’N’ROLL • ВАСКО НА 23 • МАЦКИ • METALLICA • ОЩЕ БИРА • ДО ДУПКА • ДИВИ КОТКИ • '
+  'CASH • BEER • ROCK’N’ROLL • ВАСКО НА 23 • GUCCI • METALLICA • BALENCIAGA • ДО ДУПКА • LOUIS VUITTON • BURBERRY • '
 
 export default function Marquee() {
   return (

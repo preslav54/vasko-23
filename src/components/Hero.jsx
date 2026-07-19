@@ -21,7 +21,7 @@ export default function Hero() {
       </h1>
       <p className="hero-sub">РОК ЗВЯРЪТ СТАВА НА</p>
       <div className="hero-age fire-text">{age}</div>
-      <p className="hero-tag">Пий. Свири. Чупи легла. Повтори. 🥃🎸🛏️</p>
+      <p className="hero-tag">Пий. Свири. Харчи на едро. Повтори. 🥃🎸💸</p>
       <div className="hero-horns" aria-hidden="true">
         <span className="horn">🤘</span>
         <span className="skull">💀</span>
